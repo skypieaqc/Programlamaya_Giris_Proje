@@ -1,0 +1,40 @@
+Kurufasulye Malzemeleri----> fasulye sogan biber salca yag
+
+Karniyarik Malzemeleri----> patlican yag sogan biber kiyma
+
+TavukDoner Malzemeleri----> tavuk yag sogan yogurt kekik
+
+Lahmacun Malzemeleri----> kiyma biber sogan maydanoz domates
+
+İcliKofte Malzemeleri----> bulgur irmik un karabiber domates
+
+CigKofte Malzemeleri----> bulgur tuz isot sogan domates
+
+YaprakSarma Malzemeleri----> yaprak pirinc domates yag sogan
+
+Iskender Malzemeleri----> doner domates yogurt yag salca
+
+Manti Malzemeleri----> kiyma sogan hamur yogurt karabiber
+
+TarhanaCorbasi Malzemeleri----> tarhana nane yag salca biber
+
+Kavurma Malzemeleri----> yag et sogan biber domates
+
+TasKebabi Malzemeleri----> et patates havuc sogan salca
+
+MercimekPilavi Malzemeleri----> mercimek bulgur tuz su yag
+
+InegolKofte Malzemeleri----> kiyma karbonat un sogan tuz
+
+EtliEkmek Malzemeleri----> kiyma domates biber sogan yag
+
+KadinbuduKofte Malzemeleri----> kiyma yumurta pirinc sogan kimyon
+
+Pilav Malzemeleri----> yag sehriye pirinc sogan tarcin
+
+MercimekCorbasi Malzemeleri----> mercimek un havuc sogan tuz
+
+AdanaKebab Malzemeleri----> kiyma yag biber sogan salca
+
+KiymaliPatlican Malzemeleri----> patlican kiyma sogan yag biber
+
